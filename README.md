@@ -1,4 +1,5 @@
 # Neural_Network_Charity_Analysis
+![Neural Network Photo](https://user-images.githubusercontent.com/87907584/146254740-d03d159a-0eca-4fef-ad4c-2ae1c3853064.PNG)
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 
